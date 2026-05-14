@@ -39,7 +39,7 @@ cffi==1.17.1
     #   cryptography
     #   pycares
     #   pytest-codspeed
-cfgv==3.4.0
+cfgv==3.5.0
     # via pre-commit
 charset-normalizer==3.4.2
     # via requests
