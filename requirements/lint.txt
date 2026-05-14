@@ -132,5 +132,5 @@ virtualenv==21.3.3
     # via pre-commit
 zlib-ng==1.0.0
     # via -r requirements/lint.in
-zstandard==0.23.0 ; implementation_name == "cpython"
+zstandard==0.25.0 ; implementation_name == "cpython"
     # via -r requirements/lint.in
