@@ -23,7 +23,7 @@ cfgv==3.5.0
     # via pre-commit
 click==8.1.8
     # via slotscheck
-cryptography==45.0.5
+cryptography==48.0.0
     # via trustme
 distlib==0.4.0
     # via virtualenv
@@ -115,6 +115,7 @@ trustme==1.2.1
     # via -r requirements/lint.in
 typing-extensions==4.15.0
     # via
+    #   cryptography
     #   exceptiongroup
     #   mypy
     #   pydantic
